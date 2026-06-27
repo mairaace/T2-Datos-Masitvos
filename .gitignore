@@ -6,7 +6,7 @@ __pycache__/
 data/
 db/
 
-src/prueba.py
+prueba.py
 # C extensions
 *.so
 
