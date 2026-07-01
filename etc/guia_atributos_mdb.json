@@ -1,0 +1,86 @@
+{
+    "LegislativoPeriod": [],
+    "Legislature": [
+        "number",
+        "type",
+        "started_at",
+        "ended_at"
+    ],
+    "AgendaItem": [
+        "notes",
+        "section",
+        "urgency",
+        "description",
+        "position"
+    ],
+    "Person": [
+        "gender",
+        "fathers_surname",
+        "mothers_surname",
+        "first_name",
+        "full_name",
+        "profession",
+        "birth_date",
+        "birth_place",
+        "primary_web"
+    ],
+    "Session": [
+        "context",
+        "date",
+        "number",
+        "source",
+        "type",
+        "url",
+        "started_at",
+        "ended_at"
+    ],
+    "Procedure": [
+        "date",
+        "description"
+    ],
+    "Embedding": [
+        "content",
+        "value"
+    ],
+    "Intervention": [
+        "context",
+        "source",
+        "type",
+        "transcription"
+    ],
+    "Vote": [
+        "against",
+        "date",
+        "pareo",
+        "quorum",
+        "result",
+        "source",
+        "topic",
+        "in_favor",
+        "abstention"
+    ],
+    "Position": [
+        "role",
+        "started_at",
+        "ended_at"
+    ],
+    "Stage": [
+        "source",
+        "type"
+    ],
+    "GovernmentInstitution": [
+        "name"
+    ],
+    "Document": [
+        "type",
+        "filename",
+        "download_url"
+    ],
+    "PoliticalParty": [
+        "name"
+    ],
+    "Commune": [
+        "name"
+    ],
+    "TerritorialUnit": []
+}
